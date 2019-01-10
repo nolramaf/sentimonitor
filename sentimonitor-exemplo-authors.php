@@ -54,7 +54,7 @@ if (empty($oRetorno) || isset($oRetorno->errors))
 ?>
 <html>
     <head>
-        <title>Exemplo de Integração com Sentimonitor - Autor com sentiments</title>
+        <title>Exemplo de Integração com Sentimonitor - Author</title>
     </head>
     <body>
         <b>Resultados retornados:</b>
