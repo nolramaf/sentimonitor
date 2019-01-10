@@ -61,8 +61,8 @@ if (empty($oRetorno) || isset($oRetorno->errors))
         <br><br>
         <table>
             <tr>
-                <th>Autor</th>
-                <th>Dados do autor</th>
+                <th>Author</th>
+                <th>Dados do author</th>
             </tr>
             <?php
             foreach ($oRetorno->data as $iIndex => $oData) {
